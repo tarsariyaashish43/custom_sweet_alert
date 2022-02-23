@@ -26,6 +26,3 @@ import 'custom-sweet-alert/dist/index.css'
 
 ```
 
-## License
-
-MIT © [wondercrazy15](https://github.com/wondercrazy15)
