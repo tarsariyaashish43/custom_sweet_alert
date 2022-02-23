@@ -1,4 +1,4 @@
-# custom-sweet-alert
+# custom_sweet_alert
 
 > Made with create-react-library
 
@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install --save custom-sweet-alert
+npm install --save custom_sweet_alert
 ```
 
 ## Usage
 
 ```jsx
-import { CustomSweetAlert } from 'custom-sweet-alert';
+import { CustomSweetAlert } from 'custom_swee_alert';
 import 'custom-sweet-alert/dist/index.css'
 
  <CustomSweetAlert
@@ -23,6 +23,3 @@ import 'custom-sweet-alert/dist/index.css'
     infoText="Are you sure to remove this card ?"
     onActionHandle={() => this.onActionHandle()}
   />
-
-```
-
